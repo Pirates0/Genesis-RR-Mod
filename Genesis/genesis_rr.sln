@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "genesis_rr", "genesis_rr.vcxproj", "{A079C81D-B4B4-49E1-BE5A-C21553CF6333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A079C81D-B4B4-49E1-BE5A-C21553CF6333}.Release|x64.ActiveCfg = Release|x64
+		{A079C81D-B4B4-49E1-BE5A-C21553CF6333}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87820727-B380-465D-B9AB-BBA7B54013F7}
+	EndGlobalSection
+EndGlobal
